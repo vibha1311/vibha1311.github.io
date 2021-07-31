@@ -28,13 +28,13 @@ Users should be able to:
 Desktop version
 
 ![Desktop version
-](https://github.com/vibha1311/frontendmentor-Stats-preview-card-component/blob/main/screenshot/desktop-version.png)
+](https://github.com/vibha1311/vibha1311.github.io/blob/main/screenshot/desktop-version.png)
 
 
 Mobile version
 
 ![Mobile version
-](https://github.com/vibha1311/frontendmentor-Stats-preview-card-component/blob/main/screenshot/mobile-version.png)
+](https://github.com/vibha1311/vibha1311.github.io/blob/main/screenshot/mobile-version.png)
 
 
 
