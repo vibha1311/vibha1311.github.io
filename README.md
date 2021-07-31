@@ -41,7 +41,7 @@ Mobile version
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/vibha1311/frontendmentor-Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://vibha1311.github.io/)
 
 ## My process
 
