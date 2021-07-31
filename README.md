@@ -40,8 +40,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/vibha1311/frontendmentor-Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://vibha1311.github.io/)
+- Solution URL: [Click here](https://github.com/vibha1311/frontendmentor-Stats-preview-card-component)
+- Live Site URL: [Click here](https://vibha1311.github.io/)
 
 ## My process
 
@@ -59,5 +59,6 @@ Will do more of these challenges to improve my skills.
 
 ## Author
 
-- Website - [Vibha.S](https://www.your-site.com)
+- Website - [Vibha](https://www.your-site.com)
 - Frontend Mentor - [@vibha1311](https://www.frontendmentor.io/profile/yourusername)
+
